@@ -1,0 +1,6 @@
+-> git status 
+-> git add <filename>
+-> git status
+->git commit -m "<comments>"
+->git log
+->git push -u origin master
